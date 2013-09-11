@@ -2,7 +2,7 @@
 #define IN 10
 #define OUT 11
 
-main()
+int main()
 {
   char c, state;
 

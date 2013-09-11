@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAXWHITESPACES 1
 
-main()
+int main()
 {
   char c, whitespaces_count;
   whitespaces_count = 0;

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main()
 {
   int tabs, newlines, whitespaces;
   tabs = newlines = whitespaces = 0;

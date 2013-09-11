@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main()
 {
   printf("null: \\0, ignore-character, used to mark the end of string\n");
   printf("bell: \\a, audible, beep\n");

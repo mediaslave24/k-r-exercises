@@ -3,7 +3,7 @@
 #define  BSSTRING "\\b"
 #define  SLASHSTRING "\\\\"
 
-main()
+int main()
 {
   char c;
   while((c = getchar()) != EOF)
